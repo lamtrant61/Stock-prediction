@@ -12,7 +12,7 @@ Main function:
 
 - CRUD user
 
-- This project can display candle chart to the website from raw data
+- Display candle chart to the website from raw data
 
 - Use stock data (crawl from internet by selenium) as input for deep-learning model and make prediction from back end
 
