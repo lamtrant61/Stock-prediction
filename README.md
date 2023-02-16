@@ -1,24 +1,19 @@
-# source_2023_02_02
+Author: lamtrant61@gmail.com
 
-## Project setup
-```
-npm install
-```
+Stock prediction project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Link demo: http://dubaock.com/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Front end: Vuejs 2 (Vuex, Buefy)
 
-### Lints and fixes files
-```
-npm run lint
-```
+Back end: NodeJs (Express), Python (Tensorflow, Selenium), Mongodb
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Main function:
+
+- CRUD user
+
+- This project can display candle chart to the website from raw data
+
+- Use stock data (crawl from internet by selenium) as input for deep-learning model and make prediction from back end
+
+
