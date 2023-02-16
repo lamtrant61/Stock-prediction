@@ -1,0 +1,4 @@
+Success - Register with user: ngaybenta  -  pass: 123456  -  email: ngaybenta@gmail.com  -  name: ngaybenta  -  Insert success
+Success - Register with user: demo01  -  pass: 123456  -  email: ngaybenta@gmail.com  -  name: lmao  -  Insert success
+Success - Register with user: lamtrant61  -  pass: 123456  -  email: lamtrant61@gmail.com  -  name: lamtrant61  -  Insert success
+Success - Register with user: demo01  -  pass: 123456  -  email: lamtrant61@gmail.com  -  name: asd  -  Insert success
