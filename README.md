@@ -16,4 +16,6 @@ Main function:
 
 - Use stock data (crawl from internet by selenium) as input for deep-learning model and make prediction from back end
 
+![alt text](https://github.com/lamtrant61/Stock-prediction/tree/master/public/demo.png)
+
 
